@@ -15,11 +15,6 @@ I'm a **Senior Software Engineer** with 8+ years of experience in building robus
 
 ---
 
-### 🚀 What I'm Working On
-- Developing backend microservices using **Spring Boot**, **OAuth2**, **mTLS**, and **OpenAPI**
-
----
-
 ### 📫 How to Reach Me
 - 📧 Email: mohammad.zoubi244@gmail.com
 
