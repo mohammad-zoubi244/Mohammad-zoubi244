@@ -4,17 +4,6 @@ I'm a **Senior Software Engineer** with 8+ years of experience in building robus
 
 ---
 
-### 🔧 Technical Skills
-- **Languages:** Java, C#
-- **Frameworks & Technologies:** Spring Boot, Spring (Security, Data JPA), Hibernate/JPA, RESTful APIs, Vaadin, ReactJS.
-- **Architecture & Design:** Microservices, Event-driven architecture (Kafka), Design Patterns, SOLID Principles. Cloud & Platforms: AWS (EC2, S3, RDS, IAM, CloudWatch), Docker, API Gateway (Kong, Gravity IO).
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions.
-- **Databases & Caching:** PostgreSQL, Oracle, Redis.
-- **DevOps & Tools:**  Git, Jenkins, Maven, JIRA, Confluence, Swagger/OpenAPI.
-- **Methodologies:** Agile (Scrum).
-
----
-
 ### 📫 How to Reach Me
 - 📧 Email: mohammad.zoubi244@gmail.com
 
