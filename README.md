@@ -2,9 +2,9 @@
 👋 Hi, I'm Mohammad
 </h1>
 
-<h2 align="center">
+<p align="center">
 I'm a **Senior Software Engineer** with 8+ years of experience in building robust, scalable, and secure backend systems — currently focused on **Java, Spring Boot, Microservices**, and **Cloud solutions (AWS)**.
-</h2>
+</p>
 ---
 
 ### 📫 How to Reach Me
