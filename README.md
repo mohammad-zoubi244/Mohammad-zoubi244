@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" color="green">
 👋 Hi, I'm Mohammad
 </h1>
 
