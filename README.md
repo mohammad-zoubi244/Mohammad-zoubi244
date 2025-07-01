@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-I'm a **Senior Software Engineer** with 8+ years of experience in building robust, scalable, and secure backend systems — currently focused on **Java, Spring Boot, Microservices**, and **Cloud solutions (AWS)**.
+I'm a Senior Software Engineer with 8+ years of experience in building robust, scalable, and secure backend systems — currently focused on Java, Spring Boot, Microservices, and Cloud solutions (AWS).
 </p>
 ---
 
